@@ -312,7 +312,7 @@
    */
 
   Scrollbar.Horizontal = function (pane) {
-    this.el = $('<div class="antiscroll-scrollbar antiscroll-scrollbar-horizontal">'.appendTo(pane.el);
+    this.el = $('<div class="antiscroll-scrollbar antiscroll-scrollbar-horizontal">').appendTo(pane.el);
     Scrollbar.call(this, pane);
   };
 
