@@ -381,7 +381,7 @@
    */
 
   Scrollbar.Vertical = function (pane) {
-    this.el = $('<div class="antiscroll-scrollbar antiscroll-scrollbar-vertical">'.appendTo(pane.el);
+    this.el = $('<div class="antiscroll-scrollbar antiscroll-scrollbar-vertical">').appendTo(pane.el);
     Scrollbar.call(this, pane);
   };
 
