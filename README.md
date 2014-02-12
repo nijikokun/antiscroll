@@ -1,4 +1,8 @@
-# Antiscroll: cross-browser native OSX Lion scrollbars
+# Antiscroll - Cross-Browser OSX Lion Scrollbars
+
+This is an actively maintained fork, it appears the original has been deserted.
+
+---
 
 Antiscroll fixes a fundamental problem JavaScript UI developers commonly face:
 how do I customize scrollbars so that they get out of the way (for example, for
@@ -115,6 +119,7 @@ Sharp](http://jdsharp.us/jQuery/minute/calculate-scrollbar-width.php).
 - Othree [@othree](https://github.com/othree)
 - PG Herveou [@pgherveou](https://github.com/pgherveou)
 - Fontaine Shu [@fontaineshu](https://github.com/fontaineshu) 
+- Nijiko Yonskai [@nijikokun](https://github.com/nijikokun)
 
 ## Dependencies
 
