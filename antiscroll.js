@@ -81,8 +81,6 @@
     var needHScroll = this.inner.get(0).scrollWidth > this.el.width() + (this.y ? scrollbarSize() : 0), 
 	    needVScroll = this.inner.get(0).scrollHeight > this.el.height() + (this.x ? scrollbarSize() : 0);
 
-    console.log(this.x, this.y, needHScroll, needVScroll);
-
     if (this.x) {
       if (!this.horizontal && needHScroll) {
         this.horizontal = new Scrollbar.Horizontal(this);
